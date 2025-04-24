@@ -24,7 +24,7 @@ A lightweight WordPress plugin that generates “phantom” profile pages from a
    ```csv
    name,slug,github_username
    Jonh Doe,john-doe,johndoe
-   Jane Doe,jane-doe,janedoe```
+   Jane Doe,jane-doe,janedoe
 
 Activate the “People Directory” plugin in WP Admin → Plugins.
 Flush permalinks: WP Admin → Settings → Permalinks → Save Changes.
