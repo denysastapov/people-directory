@@ -1,5 +1,7 @@
 # People Directory
 
+[![License: GPL v2 or later](https://img.shields.io/badge/License-GPLv2%2Bor_later-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
 A lightweight WordPress plugin that generates “phantom” profile pages from a CSV, enriches them with GitHub data (REST & GraphQL), and exposes only those pages in a custom sitemap for programmatic SEO.
 
 ![screencapture-pd-local-people-robert-shaw-2025-04-24-12_55_34](https://github.com/user-attachments/assets/0dab44e9-092e-4ce0-9d65-02367a17f796)
@@ -40,3 +42,7 @@ REST‐API calls (bio, avatar, repos) work without authentication (60 requests/h
 Visit any profile URL, e.g. `https://example.com/people/xiaoluoboding/`.
 View your custom sitemap at `https://example.com/people-sitemap.xml`.
 Submit the sitemap in Google Search Console to index these pages.
+
+## License
+
+This plugin is released under the **GNU General Public License v2 or later** (GPL‑2.0‑or‑later).  
